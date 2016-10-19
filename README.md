@@ -1,5 +1,7 @@
 # sms-fun
 
+[![Build Status](https://travis-ci.org/Jell/sms-fun.svg)](https://travis-ci.org/Jell/sms-fun)
+
 FIXME
 
 ## Prerequisites
